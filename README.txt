@@ -1,5 +1,5 @@
 ------------
-Please Read:
+Please Read:************
 
 Versions are now seperated into their own branches.
 4.1-x.x:  Extension for CiviCRM 4.1 and earlier.
